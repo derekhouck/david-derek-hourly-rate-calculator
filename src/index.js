@@ -7,3 +7,6 @@ ReactDOM.render(
   <RateCalculator />,
   document.getElementById('root')
 );
+
+//pass a label prop to output
+//pass a value prop to output
